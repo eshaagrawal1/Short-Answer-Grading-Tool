@@ -35,4 +35,7 @@ The system demonstrated an accuracy of 0.77 for binary scoring (correct/incorrec
 ![Screenshot 2024-06-14 235142](https://github.com/eshaagrawal1/Short-Answer-Grading-Tool/assets/90109712/5601035a-d978-48e2-8144-c8360095ca63)
 ![Screenshot 2024-06![Screenshot 2024-06-14 235234](https://github.com/eshaagrawal1/Short-Answer-Grading-Tool/assets/90109712/ab0ed14a-902d-4de2-b7d1-f04c9d7396ea)
 -14 235212](https://github.com/eshaagrawal1/Short-Answer-Grading-Tool/assets/90109712/63f6f97f-faba-49f5-86db-e718197472eb)
+![Uploading Screenshot 2024-06-14 235450.png…]()
+
+
 
